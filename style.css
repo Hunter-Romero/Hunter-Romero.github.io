@@ -1,5 +1,4 @@
 body {
-  
   border-style: solid;
   border-spacing: 10;
   background-color: #004481;
@@ -9,10 +8,26 @@ body {
   
 }
 
+.background {
+  opacity: ;
+  width: 100%;
+  height: 100%;
+}
+
+a {
+  color: white;
+}
+
 p {text-align: center;
 }
+
 h1 {
   text-align: center;
+}
+
+h6 {
+  text-align: center;
+  font-size: 12px;
 }
 
 h4, li, h5{
