@@ -1,14 +1,35 @@
 body {
-  background-color: #444444;
+  
+  border-style: solid;
+  border-spacing: 10;
+  background-color: #004481;
   color: #dddddd;
   font-family: Arial, Helvetica, san-seif;
-  margin: 20%;
+  margin: 20% 25%;
+  
 }
+
+p {text-align: center;
+}
+h1 {
+  text-align: center;
+}
+
+h4, li, h5{
+  margin: 2% 
+}
+
+h5 {
+  font-size: 16px
+}
+
+
 
 .exp-header {
   text-align: center;
   text-transform: uppercase;
-  border-top: 1px solid #dddddd;
-  border-bottom: 1px solid #dddddd;
-  background-color: rgba(0,0,0,0.1)
+  border-top: 2px solid #dddddd;
+  border-bottom: 2px solid #dddddd;
+  background-color: #cc101f;
 }
+
